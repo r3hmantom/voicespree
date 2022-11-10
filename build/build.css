@@ -2,7 +2,7 @@
 .main {
     /* background:linear-gradient(to right, black, black), url(images/cover-img.jpeg); */
     background-image:
-     /* linear-gradient(to right bottom, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), */
+     linear-gradient(to right bottom, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)),
       url(images/cover-img.webp);
     background-size: cover;
     background-repeat: no-repeat;
